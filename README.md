@@ -135,7 +135,7 @@ I'm open to **freelance contracts**, **technical consulting**, and interesting *
 
 <p align="center">
   <a href="https://portfolio-sulaimonazeez.vercel.app/">🌐 Portfolio</a> &nbsp;·&nbsp;
-  <a href="mailto:sulaimonazeez@gmail.com">📧 Email</a> &nbsp;·&nbsp;
+  <a href="mailto: olaniyisulaimon221@gmail.com">📧 Email</a> &nbsp;·&nbsp;
   <a href="https://github.com/sulaimonazeez">🐙 GitHub</a>
 </p>
 
